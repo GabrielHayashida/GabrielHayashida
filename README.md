@@ -1,10 +1,11 @@
 # Olá, sou o Gabriel Silva Hayashida 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação e tecnologias emergentes.
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por programação e tecnologia.
 
 ## 🛠️ Tecnologias
 
-- Linguagens: JavaScript, Python, Java. 
+- Linguagens: Python, Java, JS.
+- Frameworks: React e Angular
 
 ## 📫 Como me encontrar
 
